@@ -194,6 +194,6 @@ When pushing to GitHub:
 
 **Sivaji Gadidala**
 Full Stack Developer | Rust | React | Blockchain
-🔗 [GitHub](https://github.com/sivaji)
+🔗 [GitHub](https://github.com/sivajisj)
 
 ---
