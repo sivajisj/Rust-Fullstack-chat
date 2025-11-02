@@ -6,7 +6,7 @@ export default function ChatApp() {
   const socketRef = useRef(null);
 
   useEffect(() => {
-    const socket = new WebSocket("ws://localhost:8080/ws");
+const socket = new WebSocket("wss://rust-fullstack-chat.onrender.com/ws");
     socketRef.current = socket;
 
     socket.onopen = () => console.log("✅ Connected to Rust backend");
